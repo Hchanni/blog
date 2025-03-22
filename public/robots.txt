@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://hchanni.github.io/blog/sitemap.xml
